@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GradeChecker {
+public class AgeCategory {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter your age:");
